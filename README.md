@@ -4,3 +4,4 @@
 
 - **Core Contracts**: Defined WordRepository and HangmanRenderer interfaces.
 - **Data Layer**: Implemented ClasspathWordRepository with java.util.Random for random word selection.
+- **Render Layer**: Implemented AsciiArtRenderer to parse frames from assets.
