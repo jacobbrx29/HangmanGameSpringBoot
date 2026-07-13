@@ -6,3 +6,4 @@
 - **Data Layer**: Implemented ClasspathWordRepository with java.util.Random for random word selection.
 - **Render Layer**: Implemented AsciiArtRenderer to parse frames from assets.
 - **Bootstrap**: Integrated @SpringBootApplication and @ComponentScan parameters.
+- **Config**: Centralized GAME_ASSETS_BASE_PATH and established @Bean IoC configurations.
